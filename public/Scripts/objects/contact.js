@@ -1,3 +1,11 @@
+/**
+ * File name: contact.js
+ * Author's name: Awen Xu
+ * Student number: 300992536
+ * Assignment: Comp125 Final
+ * Date Created: Aug 15, 2018
+ * File description: This is the JavaScript file for the contact object. 
+ */
 let objects;
 (function(){
     class Contact {
